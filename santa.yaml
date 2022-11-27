@@ -1,0 +1,4 @@
+---
+- name: example
+  partner: example
+  email: example@hotmail.com
